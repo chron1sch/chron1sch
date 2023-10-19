@@ -1,5 +1,8 @@
-# Chronisch1337!
-- i use vscode btw. (i hate typescript, fuck you microsoft)
+# Chronischer
+- i use vscode btw
+- Nodejs & Python Developer
+- RestApi Developer
+
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/460493336076091392)](https://discord.com/users/460493336076091392)
 
