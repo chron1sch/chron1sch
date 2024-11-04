@@ -1,10 +1,4 @@
-# Chronischer
-- i use vscode btw
-- Nodejs & Python Developer
-- RestApi Developer
+Fly me To The Moon or Anything else
+Follow me on [Instagram](https://instagram.com/chronischerL
 
-## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/460493336076091392)](https://discord.com/users/460493336076091392)
-
-## View Counter
 ![:chronisch](https://count.getloli.com/get/@chronisch)
